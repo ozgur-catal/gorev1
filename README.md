@@ -1,1 +1,3 @@
-# gorev1 
+# gorev1  baslıyoruz
+
+edited
